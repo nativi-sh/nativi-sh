@@ -30,4 +30,5 @@ In the examples above, I accidentally spelled Magento as Magneto. In the first s
 
 Sometimes we want to try a few different things and see which one works best. Nativish makes it easy to do this. Just click on the little clipboard icon below either the improvement or the input and it will copy the text to your clipboard, making it easy to paste back into the input, or to use elsewhere.
 
-![Click on the little clipboard icons to copy"](rapid_iteration.gif)
+{{< figure src="rapid_iteration.gif" width="400" alt="This is true, but it might not be what you want." caption="Click on the little clipboard icons to copy" class="border-no-padding">}}
+
