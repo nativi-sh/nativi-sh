@@ -30,5 +30,17 @@ In the examples above, I accidentally spelled Magento as Magneto. In the first s
 
 Sometimes we want to try a few different things and see which one works best. Nativish makes it easy to do this. Just click on the little clipboard icon below either the improvement or the input and it will copy the text to your clipboard, making it easy to paste back into the input, or to use elsewhere.
 
-{{< figure src="rapid_iteration.gif" width="400" alt="This is true, but it might not be what you want." caption="Click on the little clipboard icons to copy" class="border-no-padding">}}
+{{< figure src="copy_to_clipboard.png" width="700" alt="This is true, but it might not be what you want." caption="Click on the little clipboard icons to copy" class="border-no-padding">}}
 
+On mobile devices, you can also tap directly on the improvement to copy it.
+
+&nbsp;
+**Takeaway:** Use the clipboard icons to copy the input or the improvement to iterate quickly.
+
+### Use the Feedback Buttons
+
+We love feedback. Much like you improving your language skills, we're constantly trying to make Nativish better, and feedback is critical to that process.
+
+{{< figure src="feedback_buttons.png" width="300" alt="This is true, but it might not be what you want." caption="Click on the little clipboard icons to copy" class="border-no-padding">}}
+
+There is a thumbs up, thumbs down, and a feedback button on each improvement. Use it to let us know if you liked the improvement or not. This helps flag issues for us to address. If you have an issue with an improvement that is not obvious then including detailed feedback would be very helpful to addressing the issue!
