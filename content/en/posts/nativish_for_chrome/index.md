@@ -2,6 +2,9 @@
 title = 'Nativish for Chrome: Improve your Writing Wherever You Are'
 date = 2024-10-12T20:05:11-04:00
 draft = false
+description = 'Nativish is proud to announce our new Chrome extension!'
+summary = 'Nativish is proud to announce our new Chrome extension!'
+categories = ['Nativish', 'Writing Tools and Tech']
 +++
 
 If you're excited to try it out now, you can install it [here!](https://chromewebstore.google.com/detail/nativish/ffppgjhignpohikjijnamnkebefoooch) If you want to learn more, then read on!
@@ -12,7 +15,7 @@ Think about your typical day. How much of your writing occurs within dedicated w
 
 - Composing emails in Gmail or Outlook
 - Posting updates on social media platforms like Facebook, Twitter, or LinkedIn
-- Collaborating on documents in Google Docs
+- Collaborating on Jira or Github
 - Responding to comments on blogs or forums
 - Writing product descriptions or reviews on e-commerce sites
 
@@ -50,6 +53,7 @@ Whether you're composing a lengthy email, crafting a social media post, or contr
 If you only want to improve a specific part of the text, or even just a specific word that's giving you trouble, you can select the text you want to improve and limit the feedback to just that section.
 
 {{< figure src="selection_example.png" width="700" alt="Example of Nativish being used in Amazon." class="border-no-padding">}}
+
 ## Empowering Language Learners Everywhere
 
 At Nativish, our mission is to empower language learners to express themselves confidently and accurately in their non-native languages. With the launch of our Chrome extension, we're taking a significant step towards making that support available wherever and whenever you need it.
