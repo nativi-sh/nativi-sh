@@ -1,7 +1,7 @@
 +++
 title = 'Nativish for Chrome: Improve your Writing Wherever You Are'
 date = 2024-10-12T20:05:11-04:00
-draft = true
+draft = false
 +++
 
 If you're excited to try it out now, you can install it [here!](https://chromewebstore.google.com/detail/nativish/ffppgjhignpohikjijnamnkebefoooch) If you want to learn more, then read on!
