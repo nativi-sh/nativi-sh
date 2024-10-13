@@ -2,6 +2,9 @@
 title = 'Use Nativish like a Native!'
 date = 2024-10-10T20:05:11-04:00
 draft = false
+description = 'Nativish is a powerful tool, but using it effectively can be a game-changer.'
+summary = 'Nativish is a powerful tool, but using it effectively can be a game-changer.'
+categories = ['Nativish', 'Writing Tools and Tech']
 +++
 
 Nativish is a powerful tool, but using it effectively can be a game-changer. Here are some tips to help you get the most out of Nativish:
