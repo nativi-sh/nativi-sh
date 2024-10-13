@@ -19,7 +19,7 @@ Nativish is the same. If you don't give it context, it will not be able to help 
 
 {{< figure src="magento.png" width="300" alt="When nativish has more context, it can catch errors that weren't otherwise apparent." caption="Nativish can spot the issue now because we have enough context." class="border-no-padding">}}
 
-In the examples above, I accidentally spelled Magento as Magneto. In the first screenshot it can't tell that I have a typo because "Mangeto is powerful" is a perfectly valid sentence. In the second screenshot, we have enough context to realize that I probably wasn't talking about an X-Man, but rather a piece of software.
+In the examples above, I accidentally spelled Magento as Magneto. In the first screenshot it can't tell that I have a typo because "Magneto is powerful" is a perfectly valid sentence. In the second screenshot, we have enough context to realize that I probably wasn't talking about an X-Man, but rather a piece of software.
 
 &nbsp;
 **Takeaway:** When in doubt, include more context. Nativish currently supports inputs of up to 1000 characters, so don't be shy!
